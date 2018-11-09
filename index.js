@@ -3,7 +3,5 @@ function shout(string) {
 }
 
 function sayHiToGrandma(){
-  let whishper = "I love you, Grandma"
-  console.log(whisper)
-  return whisper.lowercase
+  console.log("I love you, Grandma".toLowerCase())
 }
